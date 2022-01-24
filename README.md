@@ -56,3 +56,6 @@ visualization
 - Pending Transactions: 30%
 - Total Number of Transactions: 37
 
+## User Stories
+
+Attached in the Repository
